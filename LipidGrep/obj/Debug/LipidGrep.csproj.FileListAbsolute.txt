@@ -1,0 +1,6 @@
+c:\users\case159\documents\visual studio 2013\Projects\LipidGrep\LipidGrep\bin\Debug\LipidGrep.exe.config
+c:\users\case159\documents\visual studio 2013\Projects\LipidGrep\LipidGrep\bin\Debug\LipidGrep.exe
+c:\users\case159\documents\visual studio 2013\Projects\LipidGrep\LipidGrep\bin\Debug\LipidGrep.pdb
+c:\users\case159\documents\visual studio 2013\Projects\LipidGrep\LipidGrep\obj\Debug\LipidGrep.csprojResolveAssemblyReference.cache
+c:\users\case159\documents\visual studio 2013\Projects\LipidGrep\LipidGrep\obj\Debug\LipidGrep.exe
+c:\users\case159\documents\visual studio 2013\Projects\LipidGrep\LipidGrep\obj\Debug\LipidGrep.pdb
